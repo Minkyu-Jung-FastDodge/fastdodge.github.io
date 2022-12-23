@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "2022.12.22 TIL"
+date:   2022-12-22 23:04:24 +0900
+categories: jekyll update
+---
 # 1. 서버 템플릿 엔진
 ## 1.1 템플릿 엔진이란?
 ----------
